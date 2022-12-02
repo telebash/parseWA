@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "venom-bot": "^4.3.6"
-  },
-  "type": "module"
+    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "qrcode-terminal": "^0.12.0"
+  }
 }
